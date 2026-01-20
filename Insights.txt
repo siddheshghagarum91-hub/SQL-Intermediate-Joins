@@ -1,0 +1,7 @@
+Business Insights:
+
+1. Electronics category generates the highest revenue among all product categories.
+
+2. Some customers have never placed any orders, showing potential targets for marketing campaigns.
+
+3. Mumbai city contributes most of the sales, indicating it as the strongest sales region.

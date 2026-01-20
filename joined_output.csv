@@ -1,0 +1,5 @@
+customer_name,city,order_id,order_date,product_name,price,total_amount,category_name
+Rahul,Mumbai,1,1/1/2024,Laptop,50000,50000,Electronics
+Amit,Delhi,2,1/5/2024,Mobile,20000,40000,Electronics
+Rahul,Mumbai,3,1/7/2024,T-shirt,500,1500,Clothing
+Priya,Pune,4,1/10/2024,Novel,300,300,Books
